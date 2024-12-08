@@ -17,7 +17,6 @@ Este bot fue creado para interactuar con los usuarios en Telegram. El bot respon
    ```bash
    git clone https://github.com/MarcosGarcia/EchoBot.git
    cd EchoBot
->>>>>>> 78ba6af2057b3487cca4c39709972b15291d5ad8
 
 2. **Añadir al bot a Telegram**
    @marcunsonbot
